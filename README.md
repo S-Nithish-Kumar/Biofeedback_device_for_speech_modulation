@@ -71,7 +71,7 @@ elicit louder speech through the Lombard Effect. The Lombard Effect is a well-kn
 naturally speak louder under background noise. When the user does not speak, SpeechVive does not deliver babble
 noise to the ear.
 
-#### Drawbacks of SpeechVive
+#### Drawbacks of SpeechVive:
 - SpeechVive is intended to increase the user’s voice level through the Lombard effect, and it cannot provide
 feedback to prompt the user to reduce their volume if it’s not at the appropriate level for that ambient condition.
 + High cost.
@@ -96,7 +96,7 @@ for a more normal loudness.
 * These products are economically priced and reinforce the principles that patients learn in many sessions of prior
 voice treatment and now.
 
-#### Drawbacks of Hi-VOLT
+#### Drawbacks of Hi-VOLT:
 - The battery of the device lasts only for 48 hours and is not rechargeable.
 - Ambient noise level is not considered for providing feedback.
 - Visible to others.
@@ -253,14 +253,14 @@ advanced Parkinson’s disease.Acta NeurologicaBelgica, 2006. 106: pp. 19-22.
 10. Fox, C.M., et al., Current perspectives on the Lee Silverman Voice
 Treatment Program (LSVT®) for individuals with idiopathic Parkinson's
 disease.American Journal of Speech-Language Pathology, 2002. 11: pp. 111-123.
-11. P. B. Shull and D. D. Damian, “Haptic wearables as sensory replacement, sensory augmentation and trainer – A Review,” Journal of NeuroEngineering and Rehabilitation, vol. 12, no. 1, 2015.reference link to this article
+11. P. B. Shull and D. D. Damian, “Haptic wearables as sensory replacement, sensory augmentation and trainer – A Review,” Journal of NeuroEngineering and Rehabilitation, vol. 12, no. 1, 2015.
 12. M. D. Andreetta, S. G. Adams, A. D. Dykstra, and M. Jog, “Evaluation of Speech Amplification Devices in Parkinson’s Disease,” American Journal of Speech-Language Pathology, vol. 25, no. 1, pp. 29–45, Feb. 2016, doi:
-https://doi.org/10.1044/2015_AJSLP-15-0008
+https://doi.org/10.1044/2015_AJSLP-15-0008.
 13. Thomas Kehoe, “Device for self-monitoring of vocal intensity”, United
 States Patent 0183964, Aug. 17, 2006.
 14. Kehoe Thomas David, “Biofeedback System for Speech Disorders”,
 United States Patent 5794203, Aug. 11, 1998.
-15. https://learn.adafruit.com/adafruit-qt-py-2040/overview
+15. https://learn.adafruit.com/adafruit-qt-py-2040/overview.
 
 
 
