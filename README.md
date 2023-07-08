@@ -58,6 +58,8 @@ Figure 2 Information processing model with Parkinson's disease
 #### SpeechVive:
 <p align="center">
 <img src="images/SpeechVive.jpg" height="60%" width="60%">
+
+ 
 Figure 3 SpeechVive
 </p>
 - [SpeechVive](http://www.speechvive.com/) is a small, portable device designed to improve speech and voice production in individuals with
@@ -71,17 +73,18 @@ elicit louder speech through the Lombard Effect. The Lombard Effect is a well-kn
 naturally speak louder under background noise. When the user does not speak, SpeechVive does not deliver babble
 noise to the ear.
 
- -#### Drawbacks of SpeechVive
- - SpeechVive is intended to increase the user’s voice level through the Lombard effect, and it cannot provide
- feedback to prompt the user to reduce their volume if it’s not at the appropriate level for that ambient condition.
- + High cost.
- + Visible to others.
+#### Drawbacks of SpeechVive
+- SpeechVive is intended to increase the user’s voice level through the Lombard effect, and it cannot provide
+feedback to prompt the user to reduce their volume if it’s not at the appropriate level for that ambient condition.
++ High cost.
++ Visible to others.
 
 #### Hi-VOLT:
 <p align="center">
 <img src="images/Hi_VOLT_voice_on_light_bracelet.jpg" height="45%" width="45%">
-Figure 4 Hi-VOLT
 </p>
+<p align="center">Figure 4 Hi-VOLT</p>
+
 - [Hi-VOLT® 4 PD](https://voiceaerobicsdvd.com/product/hi-volt-voice-on-light-bracelet/) is a calibrated, voice-activated light bracelet that can be used by people with PD in and out of
 speech and physical therapy. Feedback from the Hi-VOLT® voice-on-light can help the user gauge the level of loudness
 required to be understood by others. Since the light is calibrated, users only have to speak loud enough to activate
@@ -224,8 +227,40 @@ time of the device.
 day-to-day activities.
 
 ### 11. References:
-
-
+1. A. Saika, M. Hussain, A. Barua, And S. Paul, “Smart Healthcare For
+Disease Diagnoses And Prevention”, An Insight Into Parkinson’s
+Disease: Research And Its Complexities, 1st Ed., pp. 59-80, January
+2020.
+2. “Who Has Parkinson’s?” Parkinson’s Foundation, [Online]: Statistics
+| Parkinson's Foundation. [Accessed: 01-Jan-2023].
+3. Parkinson’s Foundation, Speech Therapy and PD [online]:
+https://www.parkinson.org/library/fact-sheets/speech-therapy.
+4. My.Clevelandclinic.Org/Health/Diseases/9392-Speech-Therapy-For-
+Parkinsons-Disease.
+5. Cynthia M. Fox, Lorraine Olson Ramig, “Vocal Sound Pressure Level
+and Self-Perception of Speech and Voice in Men and Women with
+Idiopathic Parkinson Disease”, American Journal of Speech-Language
+Pathology, vol. 6, no. 2, pp. 85-95, May 1997.
+6. Andrew Ma, Kenneth K Lau, Dominic Thyagarajan, “Voice changes
+in Parkinson’s disease: What are they telling us?”, Journal of Clinical
+Neuroscience, vol. 72, pp. 1-7, Feb 2020.
+7. Ramig, L.O., et al., Comparison of two forms of intensive speech treatment for Parkinson disease. Journal of Speech and Hearing Research, 1995. 38: pp. 1232-1251.
+8. DeLetter, M.P., et al., Levodopa-induced alterations in speech rate in
+advanced Parkinson’s disease.Acta NeurologicaBelgica, 2006. 106: pp. 19-22.
+9. Brin, M.F., et al., Dysphonia due to Parkinson's disease, pharmacological, surgical, and behavioral management perspectives, in Vocal rehabilitation for Medical Speech-Language Pathology, By Clinicians, For Clinicians, C.M. Sapienzaand J. Casper, Editors. 2004, Pro-Ed: Austin, TX. pp. 209-269.
+10. Fox, C.M., et al., Current perspectives on the Lee Silverman Voice
+Treatment Program (LSVT®) for individuals with idiopathic Parkinson's
+disease.American Journal of Speech-Language Pathology, 2002. 11: pp. 111-123.
+11. P. B. Shull and D. D. Damian, “Haptic wearables as sensory replacement, sensory augmentation and trainer – A Review,” Journal of NeuroEngineering and Rehabilitation, vol. 12, no. 1, 2015.reference link to this article
+12. J. Carrón, Y. Campos-Roca, M. Madruga, and C. J. Pérez, “A mobile-
+assisted voice condition analysis system for Parkinson’s disease: assessment of usability conditions,” BioMedical Engineering OnLine, vol. 20, no. 1, Nov. 2021, doi: https://doi.org/10.1186/s12938-021-00951-y
+13. M. D. Andreetta, S. G. Adams, A. D. Dykstra, and M. Jog, “Evaluation of Speech Amplification Devices in Parkinson’s Disease,” American Journal of Speech-Language Pathology, vol. 25, no. 1, pp. 29–45, Feb. 2016, doi:
+https://doi.org/10.1044/2015_AJSLP-15-0008
+14. Thomas Kehoe, “Device for self-monitoring of vocal intensity”, United
+States Patent 0183964, Aug. 17, 2006.
+15. Kehoe Thomas David, “Biofeedback System for Speech Disorders”,
+United States Patent 5794203, Aug. 11, 1998.
+16. https://learn.adafruit.com/adafruit-qt-py-2040/overview
 
 
 
