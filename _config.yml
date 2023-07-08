@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Biofeedback Device for Speech Modulation]
+description: [This page provides a comprehensive guide to the design and development process of a speech assistive device, offering valuable insights and step-by-step instructions.]
