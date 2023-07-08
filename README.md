@@ -148,7 +148,7 @@ provided, prompting the user to reduce their volume. But if ambient noise is pre
 volume, feedback is not provided.
 
 <p align="center">
-<img src="images/detailed_sequence_flow_diagram.jpg" height="80%" width="80%">
+<img src="images/detailed_sequence_flow_diagram.JPG" height="110%" width="110%">
 </p>
 <p align="center">Figure 7 Detailed sequence flow diagram</p>
 
