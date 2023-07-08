@@ -1,6 +1,6 @@
 <h2 align="center">Demonstration video</h2>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=10s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
+<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
 </p>
 
 ## Contents:
