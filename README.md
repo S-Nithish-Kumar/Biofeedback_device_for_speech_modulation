@@ -1,6 +1,6 @@
 <h2 align="center">Demonstration video</h2>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=10s"><img src="http://img.youtube.com/vi/tNjcQhkGpjM&t/0.jpg"></a>
+<a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=10s"><img src="http://img.youtube.com/vi/tNjcQhkGpjM/0.jpg"></a>
 </p>
 
 ## Contents:
@@ -42,13 +42,22 @@ other vocal disorders with calibration as per the need.
 
 ### 4. Information Processing Model:
 #### Information Processing Model – For a normal human being
+<p align="center">
+<img src="images/information_processing_model_without_parkinson_disease.png" height="70%" width="70%">
+</p>
 
 #### Information processing model - For people with Parkinson’s disease
+<p align="center">
+<img src="images/information_processing_model_with_parkinson_ disease.png" height="70%" width="70%">
+</p>
 
 
 ### 5. Existing Products:
 #### SpeechVive
-- Speech Vive is a small, portable device designed to improve speech and voice production in individuals with
+<p align="center">
+<img src="images/SpeechVive.jpg" height="50%" width="50%">
+</p>
+- [SpeechVive](http://www.speechvive.com/) is a small, portable device designed to improve speech and voice production in individuals with
 Parkinson’s disease. The programmable device is worn behind the ear, like a hearing aid. When the user speaks,
 a babbling noise plays in their ear, acting upon a reflex that causes them to speak louder. Because the device
 does not require training, it can be successfully used by people with mild cognitive impairment or reduced memory.
@@ -66,7 +75,10 @@ feedback to prompt the user to reduce their volume if it’s not at the appropri
 + Visible to others.
 
 #### Hi-VOLT
-- Hi-VOLT® 4 PD is a calibrated, voice-activated light bracelet that can be used by people with PD in and out of
+<p align="center">
+<img src="images/Hi_VOLT_voice_on_light_bracelet.jpg" height="45%" width="45%">
+</p>
+- [Hi-VOLT® 4 PD](https://voiceaerobicsdvd.com/product/hi-volt-voice-on-light-bracelet/) is a calibrated, voice-activated light bracelet that can be used by people with PD in and out of
 speech and physical therapy. Feedback from the Hi-VOLT® voice-on-light can help the user gauge the level of loudness
 required to be understood by others. Since the light is calibrated, users only have to speak loud enough to activate
 the light.
@@ -94,6 +106,9 @@ makes the user increase their voice.
 
 ### 7. Implementation:
 #### Circuit Diagram
+<p align="center">
+<img src="images/circuit_diagram.jpg" height="80%" width="80%">
+</p>
 - The circuit diagram above shows the components used in the device.
 - An adjustable-gain microphone is used as a user microphone. The gain of the user microphone is optimized so that
 it will only capture the user's voice and eliminate ambient noise.
@@ -106,6 +121,9 @@ background noise that is far away.
 - Buttons are provided to adjust the intensity of the vibration motor.
 
 #### Working
+<p align="center">
+<img src="images/overall_sequence_flow_diagram.jpg" height="80%" width="80%">
+</p>
 - Once the device is turned on, the ambient mic will capture background noise. When the user starts speaking,
 the captured background noise is used for comparison with the user’s voice level and provides feedback. The
 sequence flow diagram above illustrates the feedback logic of the device.
@@ -122,9 +140,21 @@ volume, feedback is not provided.
 #### Microphone Data Filtering
 Signals from both user and ambient microphones are filtered using first-order low-pass filters to remove noise 
 and avoid sudden spikes that could affect the feedback of the device.
+<p align="center">
+<img src="images/user_mic_raw_and_filtered_data.jpg" height="80%" width="80%">
+</p>
+<p align="center">
+<img src="images/ambient_mic_raw_and_filtered_data.jpg" height="80%" width="80%">
+</p>
 
 #### Housing
+<p align="center">
+<img src="images/component_housing.jpg" height="40%" width="40%">
+</p>
 As shown in the figure above, all the components are placed inside 3D printed boxes.
+<p align="center">
+<img src="images/shoulder_brace.jpg" height="40%" width="40%">
+</p>
 
 - The shoulder brace shown above is modified to incorporate the device onto the interior surface of the
 brace, ensuring that it remains hidden from view. Additionally, the device is removable, allowing users
@@ -138,6 +168,10 @@ used in determining the user's and ambient sound levels for providing feedback.
 The device comes with a rechargeable battery and a battery life of 12 hours on a single charge.
 * The primary aim of designing the device is to ensure user-friendliness and accessibility with minimal effort
 and disturbance to the wearer. The shoulder brace is adjustable to accommodate all body types comfortably.
+
+<p align="center">
+<img src="images/shoulder_brace_under_regular_attire.jpg" height="40%" width="40%">
+</p>
 
 As shown in the figure above, the shoulder brace is hidden under regular attire.
 
