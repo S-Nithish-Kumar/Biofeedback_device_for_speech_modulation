@@ -51,7 +51,7 @@ other vocal disorders with calibration as per the need.
 <p align="center">
 <img src="images/information_processing_model_with_parkinson_ disease.png" height="110%" width="110%">
 </p>
-<p>Figure 2 Information processing model with Parkinson's disease</p>
+<p align="center">Figure 2 Information processing model with Parkinson's disease</p>
 
 
 ### 5. Existing Products:
@@ -148,9 +148,9 @@ provided, prompting the user to reduce their volume. But if ambient noise is pre
 volume, feedback is not provided.
 
 <p align="center">
-<img src="images/detailed_sequence_flow_diagram.jpg" height="100%" width="100%">
+<img src="images/detailed_sequence_flow_diagram.jpg" height="80%" width="80%">
 </p>
-<p>Figure 7 Detailed sequence flow diagram</p>
+<p align="center">Figure 7 Detailed sequence flow diagram</p>
 
 #### Microphone Data Filtering:
 Signals from both user and ambient microphones are filtered using first-order low-pass filters to remove noise 
@@ -158,24 +158,24 @@ and avoid sudden spikes that could affect the feedback of the device.
 <p align="center">
 <img src="images/user_mic_raw_and_filtered_data.jpg" height="110%" width="110%">
 </p>
-<p>Figure 8 Raw and filtered user microphone signals</p>
+<p align="center">Figure 8 Raw and filtered user microphone signals</p>
 
 <p align="center">
 <img src="images/ambient_mic_raw_and_filtered_data.jpg" height="110%" width="110%">
 </p>
-<p>Figure 9 Raw and filtered ambient microphone signals</p>
+<p align="center">Figure 9 Raw and filtered ambient microphone signals</p>
 
 #### Component Housing:
 <p align="center">
 <img src="images/component_housing.jpg" height="50%" width="50%">
 </p>
-<p>Figure 10 Component housing</p>
+<p align="center">Figure 10 Component housing</p>
 
 As shown in the figure above, all the components are placed inside 3D printed boxes.
 <p align="center">
 <img src="images/shoulder_brace.jpg" height="40%" width="40%">
 </p>
-<p>Figure 11 Shoulder brace</p>
+<p align="center">Figure 11 Shoulder brace</p>
 
 - The shoulder brace shown above is modified to incorporate the device onto the interior surface of the
 brace, ensuring that it remains hidden from view. Additionally, the device is removable, allowing users
@@ -193,7 +193,7 @@ and disturbance to the wearer. The shoulder brace is adjustable to accommodate a
 <p align="center">
 <img src="images/shoulder_brace_under_regular_attire.jpg" height="40%" width="40%">
 </p>
-<p>Figure 12 Shoulder brace under regular attire</p>
+<p align="center">Figure 12 Shoulder brace under regular attire</p>
 
 As shown in the figure above, the shoulder brace is hidden under regular attire.
 
