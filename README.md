@@ -44,24 +44,22 @@ other vocal disorders with calibration as per the need.
 #### Information Processing Model – For a normal human being:
 <p align="center">
 <img src="images/information_processing_model_without_parkinson_disease.png" height="110%" width="110%">
-Figure 1 Information processing model for a normal human being
 </p>
+<p align="center">Figure 1 Information processing model for a normal human being</p>
 
 #### Information processing model - For people with Parkinson’s disease:
 <p align="center">
 <img src="images/information_processing_model_with_parkinson_ disease.png" height="110%" width="110%">
-Figure 2 Information processing model with Parkinson's disease
 </p>
+<p>Figure 2 Information processing model with Parkinson's disease</p>
 
 
 ### 5. Existing Products:
 #### SpeechVive:
 <p align="center">
 <img src="images/SpeechVive.jpg" height="60%" width="60%">
-
- 
-Figure 3 SpeechVive
 </p>
+<p align="center">Figure 3 SpeechVive</p>
 - [SpeechVive](http://www.speechvive.com/) is a small, portable device designed to improve speech and voice production in individuals with
 Parkinson’s disease. The programmable device is worn behind the ear, like a hearing aid. When the user speaks,
 a babbling noise plays in their ear, acting upon a reflex that causes them to speak louder. Because the device
@@ -82,6 +80,7 @@ feedback to prompt the user to reduce their volume if it’s not at the appropri
 #### Hi-VOLT:
 <p align="center">
 <img src="images/Hi_VOLT_voice_on_light_bracelet.jpg" height="45%" width="45%">
+Figure 4 Hi-VOLT
 </p>
 <p align="center">Figure 4 Hi-VOLT</p>
 
@@ -115,8 +114,9 @@ makes the user increase their voice.
 #### Circuit Diagram:
 <p align="center">
 <img src="images/circuit_diagram.jpg" height="100%" width="100%">
-Figure 5 Circuit diagram
 </p>
+<p align="center">Figure 5 Circuit diagram</p>
+
 - The circuit diagram above shows the components used in the device.An adjustable-gain microphone is used as 
 a user microphone. The gain of the user microphone is optimized so that it will only capture the user's voice 
 and eliminate ambient noise.
@@ -131,8 +131,8 @@ background noise that is far away.
 #### Working:
 <p align="center">
 <img src="images/overall_sequence_flow_diagram.jpg" height="110%" width="110%">
-Figure 6 Overall sequence flow diagram
 </p>
+<p align="center">Figure 6 Overall sequence flow diagram</p>
 
 - Once the device is turned on, the ambient mic will capture background noise. When the user starts speaking,
 the captured background noise is used for comparison with the user’s voice level and provides feedback. The
@@ -148,32 +148,34 @@ provided, prompting the user to reduce their volume. But if ambient noise is pre
 volume, feedback is not provided.
 
 <p align="center">
-<img src="images/detailed_sequence_flow_diagram.jpg" height="120%" width="120%">
-Figure 7 Detailed sequence flow diagram
+<img src="images/detailed_sequence_flow_diagram.jpg" height="100%" width="100%">
 </p>
+<p>Figure 7 Detailed sequence flow diagram</p>
 
 #### Microphone Data Filtering:
 Signals from both user and ambient microphones are filtered using first-order low-pass filters to remove noise 
 and avoid sudden spikes that could affect the feedback of the device.
 <p align="center">
 <img src="images/user_mic_raw_and_filtered_data.jpg" height="110%" width="110%">
-Figure 8 Raw and filtered user microphone signals
 </p>
+<p>Figure 8 Raw and filtered user microphone signals</p>
+
 <p align="center">
 <img src="images/ambient_mic_raw_and_filtered_data.jpg" height="110%" width="110%">
-Figure 9 Raw and filtered ambient microphone signals
 </p>
+<p>Figure 9 Raw and filtered ambient microphone signals</p>
 
 #### Component Housing:
 <p align="center">
 <img src="images/component_housing.jpg" height="50%" width="50%">
-Figure 10 Component housing
 </p>
+<p>Figure 10 Component housing</p>
+
 As shown in the figure above, all the components are placed inside 3D printed boxes.
 <p align="center">
 <img src="images/shoulder_brace.jpg" height="40%" width="40%">
-Figure 11 Shoulder brace
 </p>
+<p>Figure 11 Shoulder brace</p>
 
 - The shoulder brace shown above is modified to incorporate the device onto the interior surface of the
 brace, ensuring that it remains hidden from view. Additionally, the device is removable, allowing users
@@ -190,8 +192,8 @@ and disturbance to the wearer. The shoulder brace is adjustable to accommodate a
 
 <p align="center">
 <img src="images/shoulder_brace_under_regular_attire.jpg" height="40%" width="40%">
-Figure 12 Shoulder brace under regular attire
 </p>
+<p>Figure 12 Shoulder brace under regular attire</p>
 
 As shown in the figure above, the shoulder brace is hidden under regular attire.
 
@@ -252,15 +254,13 @@ advanced Parkinson’s disease.Acta NeurologicaBelgica, 2006. 106: pp. 19-22.
 Treatment Program (LSVT®) for individuals with idiopathic Parkinson's
 disease.American Journal of Speech-Language Pathology, 2002. 11: pp. 111-123.
 11. P. B. Shull and D. D. Damian, “Haptic wearables as sensory replacement, sensory augmentation and trainer – A Review,” Journal of NeuroEngineering and Rehabilitation, vol. 12, no. 1, 2015.reference link to this article
-12. J. Carrón, Y. Campos-Roca, M. Madruga, and C. J. Pérez, “A mobile-
-assisted voice condition analysis system for Parkinson’s disease: assessment of usability conditions,” BioMedical Engineering OnLine, vol. 20, no. 1, Nov. 2021, doi: https://doi.org/10.1186/s12938-021-00951-y
-13. M. D. Andreetta, S. G. Adams, A. D. Dykstra, and M. Jog, “Evaluation of Speech Amplification Devices in Parkinson’s Disease,” American Journal of Speech-Language Pathology, vol. 25, no. 1, pp. 29–45, Feb. 2016, doi:
+12. M. D. Andreetta, S. G. Adams, A. D. Dykstra, and M. Jog, “Evaluation of Speech Amplification Devices in Parkinson’s Disease,” American Journal of Speech-Language Pathology, vol. 25, no. 1, pp. 29–45, Feb. 2016, doi:
 https://doi.org/10.1044/2015_AJSLP-15-0008
-14. Thomas Kehoe, “Device for self-monitoring of vocal intensity”, United
+13. Thomas Kehoe, “Device for self-monitoring of vocal intensity”, United
 States Patent 0183964, Aug. 17, 2006.
-15. Kehoe Thomas David, “Biofeedback System for Speech Disorders”,
+14. Kehoe Thomas David, “Biofeedback System for Speech Disorders”,
 United States Patent 5794203, Aug. 11, 1998.
-16. https://learn.adafruit.com/adafruit-qt-py-2040/overview
+15. https://learn.adafruit.com/adafruit-qt-py-2040/overview
 
 
 
