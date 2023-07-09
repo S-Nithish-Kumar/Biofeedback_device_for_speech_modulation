@@ -78,7 +78,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper zoom">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
@@ -105,9 +105,7 @@
       </header>
 
       <section>
-        <div class="zoom">
         {{ content }}
-        </div>
       </section>
 
       <footer>
