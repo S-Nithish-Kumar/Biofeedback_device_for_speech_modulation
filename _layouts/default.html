@@ -17,7 +17,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="header"><small>{{ site.description | default: site.github.project_tagline }}</small></p>
 
         <ul>
           {% if site.show_downloads %}
@@ -42,8 +42,6 @@
         {{ content }}
       </section>
       
-      <footer>
-        <p><small>ASU student project done in collaboration with the Barrow Neurological Institute</small></p>
       
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
