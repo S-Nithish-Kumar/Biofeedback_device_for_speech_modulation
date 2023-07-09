@@ -66,6 +66,9 @@
 
   .zoom_left_bar{
     zoom: 1.1;
+    -moz-transform: scale(1.1); /* For Firefox */
+    -webkit-transform: scale(1.1); /* For Chrome, Safari, and Opera */
+    transform: scale(1.1); /* Standard syntax */
     transform-origin: 0 0;
   }
     
@@ -84,7 +87,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper zoom">
+    <div class="wrapper zoom_left_bar">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
