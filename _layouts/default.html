@@ -41,10 +41,10 @@
     margin: 5px 5px;
     cursor: pointer;
     background-color: #232ab1;
-    width: 170px;
+    width: 160px;
     border-radius: 4px;
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
   }
 
   .button:active {
@@ -53,7 +53,7 @@
     
  .button_effect:hover {
   box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24),0 17px 50px 0 rgba(255,255,255,0.19);
-  opacity: 0.5
+  opacity: 1;
  }
     
   </style>
@@ -86,6 +86,7 @@
         <button class="button button_effect" onclick="document.location='https://github.com/S-Nithish-Kumar/Biofeedback_device_for_speech_modulation'">View on GitHub</button>
 
         {% if site.github.is_project_page %}
+        <p> </p>
         <p class="header" align="left"><small>This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
         {% endif %}
 
