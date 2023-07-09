@@ -3,6 +3,10 @@
 <a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
 </p>
 
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 ## Contents:
 <ol>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement">Problem Statement</a></li>
