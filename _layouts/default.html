@@ -12,7 +12,7 @@
   }
 
   a:visited {
-    color: pink;
+    color: #58d7ed;
     background-color: transparent;
     text-decoration: none;
   }
@@ -41,7 +41,15 @@
     margin: 5px 5px;
     cursor: pointer;
     background-color: #232ab1;
+    width: 250px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
   }
+    
+ .button_effect:hover {
+  box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24),0 17px 50px 0 rgba(255,255,255,0.19);
+ }
+    
   </style>
   <head>
     <meta charset="utf-8">
@@ -68,8 +76,8 @@
             <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
           {% endif %}          
         </ul>
-        <button class="button" onclick="document.location='https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#contents'">View Contents</button>
-        <button class="button" onclick="document.location='site.github.repository_url'">View on GitHub</button>
+        <button class="button button_effect" onclick="document.location='https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#contents'">View Contents</button>
+        <button class="button button_effect" onclick="document.location='site.github.repository_url'">View on GitHub</button>
 
         {% if site.github.is_project_page %}
         <p class="header" align="left"><small>This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
