@@ -3,6 +3,13 @@
 <a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
 </p>
 
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 ## Contents:
 <ol>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement">Problem Statement</a></li>
@@ -30,11 +37,13 @@ motor control for speech modulation due to limited physical sensations of speech
 + The limited physical sensations of speech are due to the decline in Dopamine responsible for cognition.
 
 ### 2. Objectives:
-- People with Neuro vocal disorders seem to modulate their voice better during speech exercises under the
+<ul>
+<li><div>People with Neuro vocal disorders seem to modulate their voice better during speech exercises under the
 supervision of a therapist. It shows that people with such a disorder can respond well to feedback provided
-with an assistive device that will substitute for the therapist, enabling individuals to modulate their voices.
-+ This project aims to design and develop a prototype for providing vibrotactile feedback based on ambient
-noise to modulate the speech intensity of an individual.
+with an assistive device that will substitute for the therapist, enabling individuals to modulate their voices.</div></li>
+<li><div>This project aims to design and develop a prototype for providing vibrotactile feedback based on ambient
+noise to modulate the speech intensity of an individual.</div></li>
+</ul>
 
 ### 3. Impact of Solving the Problem:
 - Parkinson's disease is a widespread neurodegenerative disorder affecting millions of individuals worldwide.
