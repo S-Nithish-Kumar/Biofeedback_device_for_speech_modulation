@@ -11,10 +11,14 @@
 5. [Existing Products](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#5-existing-products)
 6. [Proposed Approach](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#6-proposed-approach)
 7. [Implementation](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#7-implementation)
-8. [Testing and Validation](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation)
-9. [Problems and Troubleshooting](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems and troubleshooting)
-10. [Results and Conclusion](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion)
-11. [References](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references)
+   [Circuit Diagram](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#circuit-diagram)
+   [Working](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#working)
+   [Microphone Signal Filtering](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#microphone-signal-filtering)
+   [Component Housing](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#component-housing)
+9. [Testing and Validation](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation)
+10. [Problems and Troubleshooting](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems and troubleshooting)
+11. [Results and Conclusion](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion)
+12. [References](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references)
 
 ### 1. Problem Statement:
 - Neurodegenerative diseases such as Parkinson’s disease can cause vocal disorders leading to reduced
@@ -152,7 +156,7 @@ volume, feedback is not provided.
 </p>
 <p align="center">Figure 7 Detailed sequence flow diagram</p>
 
-#### Microphone Data Filtering:
+#### Microphone Signal Filtering:
 Signals from both user and ambient microphones are filtered using first-order low-pass filters to remove noise 
 and avoid sudden spikes that could affect the feedback of the device.
 <p align="center">
