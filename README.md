@@ -4,9 +4,9 @@
 </p>
 
 ## Contents:
-1. (Problem Statement)[https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement]
-2. (Objectives)[https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#2-objectives]
-3. (Impact of Solving the Problem)[https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#3-impact-of-solving-the-problem]
+1. [Problem Statement](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement)
+2. [Objectives](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#2-objectives)
+3. [Impact of Solving the Problem](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#3-impact-of-solving-the-problem)
 4. Information Processing Model
 5. Existing Products
 6. Proposed Approach
