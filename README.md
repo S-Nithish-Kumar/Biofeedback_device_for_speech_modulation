@@ -7,14 +7,14 @@
 1. [Problem Statement](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement)
 2. [Objectives](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#2-objectives)
 3. [Impact of Solving the Problem](https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#3-impact-of-solving-the-problem)
-4. Information Processing Model
-5. Existing Products
-6. Proposed Approach
-7. Implementation
-8. Testing and Validation
-9. Problems and Troubleshooting
-10. Results and Conclusion
-11. References
+4. Information Processing Model(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#4-information-processing-model)
+5. Existing Products(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#5-existing-products)
+6. Proposed Approach(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#6-proposed-approach)
+7. Implementation(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#7-implementation)
+8. Testing and Validation(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation)
+9. Problems and Troubleshooting(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems and troubleshooting)
+10. Results and Conclusion(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion)
+11. References(https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references)
 
 ### 1. Problem Statement:
 - Neurodegenerative diseases such as Parkinson’s disease can cause vocal disorders leading to reduced
