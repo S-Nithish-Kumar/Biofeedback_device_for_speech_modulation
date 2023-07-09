@@ -57,10 +57,10 @@
  }
 
   .zoom {
-    zoom: 1.2; /* Adjust the value to set the desired zoom level */
-    -moz-transform: scale(1.2); /* For Firefox */
-    -webkit-transform: scale(1.2); /* For Chrome, Safari, and Opera */
-    transform: scale(1.2); /* Standard syntax */
+    zoom: 1.1; /* Adjust the value to set the desired zoom level */
+    -moz-transform: scale(1.1); /* For Firefox */
+    -webkit-transform: scale(1.1); /* For Chrome, Safari, and Opera */
+    transform: scale(1.1); /* Standard syntax */
     transform-origin: 0 0;
   }
 
@@ -84,7 +84,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper zoom_left_bar">
+    <div class="wrapper zoom">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
@@ -110,7 +110,7 @@
         {% endif %}
       </header>
 
-      <section>
+      <section align="center">
         <div class="zoom">
         {{ content }}
         </div>
