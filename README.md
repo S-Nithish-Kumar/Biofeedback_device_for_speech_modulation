@@ -19,7 +19,7 @@
       <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#component-housing">Component Housing</a></li>
    </ul>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation">Testing and Validation</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems-troubleshooting">Problems and Troubleshooting</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems-and-troubleshooting">Problems and Troubleshooting</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion">Results and Conclusion</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references">References</a></li>
 </ol>
