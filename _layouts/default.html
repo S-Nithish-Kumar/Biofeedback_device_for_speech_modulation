@@ -55,17 +55,12 @@
   box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24),0 17px 50px 0 rgba(255,255,255,0.19);
   opacity: 1;
  }
-  
-  section {
-    padding:10px 50px 0 0;
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-  	font-size: 16px;
-  	color: #232323;
-  	background-color: #FBFAF7;
-  	margin: 0;
-  	line-height: 1.8em;
-  	-webkit-font-smoothing: antialiased;
-  
+
+  .zoom {
+    zoom: 1.2; /* Adjust the value to set the desired zoom level */
+    -moz-transform: scale(1.2); /* For Firefox */
+    -webkit-transform: scale(1.2); /* For Chrome, Safari, and Opera */
+    transform: scale(1.2); /* Standard syntax */
   }
     
   </style>
@@ -110,7 +105,9 @@
       </header>
 
       <section>
+        <zoom>
         {{ content }}
+        </zoom>
       </section>
 
       <footer>
