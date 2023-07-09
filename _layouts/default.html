@@ -63,6 +63,11 @@
     transform: scale(1.2); /* Standard syntax */
     transform-origin: 0 0;
   }
+
+  .zoom_left_bar{
+    zoom: 1.1;
+    transform-origin: 0 0;
+  }
     
   </style>
   <head>
@@ -79,7 +84,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper zoom_left_bar">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
