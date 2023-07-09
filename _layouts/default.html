@@ -61,7 +61,7 @@
     -moz-transform: scale(1.2); /* For Firefox */
     -webkit-transform: scale(1.2); /* For Chrome, Safari, and Opera */
     transform: scale(1.2); /* Standard syntax */
-    transform-origin: 0 0;
+    transform-origin: 250 0;
   }
     
   </style>
@@ -79,7 +79,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper zoom">
+    <div class="wrapper">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
@@ -106,7 +106,9 @@
       </header>
 
       <section>
+        <div class="zoom">
         {{ content }}
+        </div>
       </section>
 
       <footer>
