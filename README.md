@@ -3,13 +3,6 @@
 <a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
 </p>
 
-<style>
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-
 ## Contents:
 <ol>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement">Problem Statement</a></li>
