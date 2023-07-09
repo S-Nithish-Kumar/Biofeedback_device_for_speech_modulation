@@ -18,7 +18,7 @@
       <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#microphone-signal-filtering)">Microphone Signal Filtering</a></li>
       <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#component-housing">Component Housing</a></li>
    </ul>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation">Testing and Validation]()</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation">Testing and Validation</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems-troubleshooting)">Problems and Troubleshooting</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion)">Results and Conclusion</a></li>
    <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references">References</a></li>
@@ -88,7 +88,6 @@ feedback to prompt the user to reduce their volume if it’s not at the appropri
 #### Hi-VOLT:
 <p align="center">
 <img src="images/Hi_VOLT_voice_on_light_bracelet.jpg" height="45%" width="45%">
-Figure 4 Hi-VOLT
 </p>
 <p align="center">Figure 4 Hi-VOLT</p>
 
