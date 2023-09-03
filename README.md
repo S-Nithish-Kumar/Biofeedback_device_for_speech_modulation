@@ -3,27 +3,6 @@
 <a href="https://www.youtube.com/watch?v=tNjcQhkGpjM&t=00s"><img src="images/thumbnail.jpg" height="70%" width="70%"></a>
 </p>
 
-## Contents:
-<ol>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#1-problem-statement">Problem Statement</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#2-objectives">Objectives</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#3-impact-of-solving-the-problem">Impact of Solving the Problem</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#4-information-processing-model">Information Processing Model</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#5-existing-products">Existing Products</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#6-proposed-approach">Proposed Approach</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#7-implementation">Implementation</a></li>
-   <ul>
-      <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#circuit-diagram">Circuit Diagram</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#working">Working</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#microphone-signal-filtering">Microphone Signal Filtering</a></li>
-      <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#component-housing">Component Housing</a></li>
-   </ul>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#8-testing-and-validation">Testing and Validation</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#9-problems-and-troubleshooting">Problems and Troubleshooting</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#10-results-and-conclusion">Results and Conclusion</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#11-references">References</a></li>
-</ol>
-
 ### 1. Problem Statement:
 - Neurodegenerative diseases such as Parkinson’s disease can cause vocal disorders leading to reduced
 motor control for speech modulation due to limited physical sensations of speech.

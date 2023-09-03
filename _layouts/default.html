@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <style>
+<style>
   div {
     text-align: justify;
     text-justify: inter-word;
   }
+
   a:link {
     color: green;
     background-color: transparent;
@@ -48,13 +49,13 @@
   }
 
   .button:active {
-  transform: translateY(8px);
+    transform: translateY(8px);
   }
-    
- .button_effect:hover {
+
+  .button_effect:hover {
   box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24),0 17px 50px 0 rgba(255,255,255,0.19);
-  opacity: 1;
- }
+    opacity: 1;
+  }
 
   .zoom {
     zoom: 1.1; /* Adjust the value to set the desired zoom level */
@@ -68,37 +69,37 @@
     zoom: 1.1;
     transform-origin: 0 0;
   }
-    
-  </style>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+</style>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
-    <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="wrapper">
+  {% include head-custom.html %}
+</head>
+<body>
+  <div class="wrapper">
       <header>
         <h1 class="header" align="left">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header" align="left">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
           {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-          {% endif %}          
+          <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
+          {% endif %}
         </ul>
         <p>
         <button class="button button_effect" onclick="document.location='https://s-nithish-kumar.github.io/Biofeedback_device_for_speech_modulation/#contents'"><img src="images/contents_image.png" height="12%" width="12%" align="left">View Contents</button>
         <button class="button button_effect" onclick="document.location='https://github.com/S-Nithish-Kumar/Biofeedback_device_for_speech_modulation'"><img src="images/octocat_small.png" height="10%" width="10%" align="left">View on GitHub</button> 
-        </p>  
+        </p>
 
         {% if site.github.is_project_page %}
         <p> </p>
@@ -106,23 +107,23 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-          <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul>
+        <ul>
+          <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+        </ul>
         {% endif %}
       </header>
 
       <section align="center">
         <div class="zoom">
-        {{ content }}
+          {{ content }}
         </div>
       </section>
 
-      <footer>
+    <footer>
         <p align="left"><small>ASU student project done in collaboration with the Barrow Neurological Institute</small></p>
-      </footer>
-      
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  </body>
+    </footer>
+
+  </div>
+  <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+</body>
 </html>
